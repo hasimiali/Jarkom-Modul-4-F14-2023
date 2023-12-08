@@ -28,6 +28,7 @@ Ali Hasyimi Assegaf | 5025211131
 # Pembagian Subnet
 Sebelum melakukan pembagian IP dengan menggunakan metode perhitungan Classless, perlu dilakukan pembagian dan penamaan subnet terlebih dahulu. Penamaan dilakukan dengan tujuan untuk mempermudah melakukan perhitungan. Berikut pembagian dan penamaan subnet yang menjadi dasar perhitungan VLSM dan CIDR:
 ![tabel-subnet](./img/subnet.png)
+![tree-subnet](./img/pembagian_subnet.png)
 
 # Konfigurasi VLSM
 ![tabel vlsm](./img/tabel_vlsm.png)
