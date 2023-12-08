@@ -16,7 +16,6 @@ Ali Hasyimi Assegaf | 5025211131
   - [Routing](#routing)
 - [CIDR](#konfigurasi-cidr)
   - [Subnetting](subnetting)
-  - [Routing](routing)
 
 # Soal
 ![topologi](./img/topoF14.png)
